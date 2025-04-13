@@ -1,0 +1,25 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "this is a react by jayaprakash",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jayaprakash0709/REACT.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Jayaprakash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jayaprakash0709/REACT/issues"
+  },
+  "homepage": "https://github.com/Jayaprakash0709/REACT#readme",
+  "devDependencies": {
+    "parcel": "^2.14.4"
+  }
+}

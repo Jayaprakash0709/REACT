@@ -11,6 +11,6 @@ const heading = React.createElement("div", { id: "parent", hfyu: "bdehb" }, [
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 
-console.log(heading);
+console.log(heading); // Object
 
 root.render(heading);
